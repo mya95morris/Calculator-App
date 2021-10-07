@@ -51,7 +51,7 @@ Once I perfected the logic, the problem was that I was using setState to keep th
 
 ## Author
 
-- Website - [Mya Morris](https://app.netlify.com/sites/vigilant-heisenberg-94724f/overview)
+- Website - [Mya Morris](https://jolly-beaver-a96201.netlify.app/)
 
 ## Acknowledgments
 
