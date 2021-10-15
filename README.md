@@ -4,13 +4,13 @@ This is a solution to the Calculator app challenge on Frontend Mentor.
 
 ## Table of contents
 
-- [Overview](#overview)
+  - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
 ## Overview

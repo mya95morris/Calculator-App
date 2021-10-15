@@ -1,4 +1,6 @@
-import styled, { createGlobalStyle } from 'styled-components';
+import styled, {
+  createGlobalStyle
+} from 'styled-components';
 
 const GlobalStyles = createGlobalStyle`
     html {
@@ -26,11 +28,17 @@ const GlobalStyles = createGlobalStyle`
     }
 `;
 
-export default function Page({ children }) {
-  return (
-    <>
-      <GlobalStyles />
-      <div>{children}</div>
-    </>
+export default function Page({
+  children
+}) {
+  return ( <
+    >
+    <
+    GlobalStyles / >
+    <
+    div > {
+      children
+    } < /div> < /
+    >
   );
 }
